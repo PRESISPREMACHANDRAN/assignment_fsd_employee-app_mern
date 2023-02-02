@@ -1,4 +1,3 @@
-//session 19
 
 const express=require('express');
 const app=new express();
@@ -51,8 +50,8 @@ app.put('/employees/:name',(req,res)=>{
         }
     })
 })
-//we want to change the salary and designation of nitha
-//at postman put->http://localhost:3000/employees/Nitha
+//we want to change the salary and designation of Gireesh
+//at postman put->http://localhost:3000/employees/Gireesh
 //body->raw->json
 
 
@@ -73,8 +72,8 @@ fs.writeFile('dataset.json',JSON.stringify(value),(err,resp)=>{
 
 })
 
-//we want to delete the details of nitha
-//at postman del->http://localhost:3000/employees/Nitha
+//we want to delete the details of Maria
+//at postman del->http://localhost:3000/employees/Maria
 //body->none
 
 
