@@ -1,0 +1,22 @@
+[
+    {
+        "employeename":"Maria",
+        "employeeDesignation":"Manager"
+        ,"employeeSalary":"60000"
+    },
+    {
+        "employeename":"Geetha",
+        "employeeDesignation":"Engineer"
+        ,"employeeSalary":"80000"
+    },
+    {
+        "employeename":"Nivin",
+        "employeeDesignation":"Lawer"
+        ,"employeeSalary":"50000"
+    },
+    {
+        "employeename":"Gireesh",
+        "employeeDesignation":"Doctor"
+        ,"employeeSalary":"90000"
+    }
+]
